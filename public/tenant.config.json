@@ -1,38 +1,254 @@
 {
-  "_note": "This file is overwritten by the Apotome provisioning service during site generation. Edit your live content from /admin.",
+  "_generated": "2026-07-21T21:20:01.940Z",
   "archetype": "mesa",
-  "brand": "The Mesa Restaurant",
-  "tagline": "Fresh, Local, Unforgettable",
-  "blurb": "A warm gathering place where every dish tells a story.",
-  "theme": "earth",
-  "swatch": "default",
-  "variant": "classic",
-  "contact": {
-    "address": "123 Main St, Trinidad, CO 81082",
-    "phone": "(719) 555-0100",
-    "email": "hello@example.com",
-    "mapEmbedUrl": ""
+  "menu": {
+    "categories": [
+      {
+        "name": "Signature pizza",
+        "description": "",
+        "items": [
+          {
+            "name": "Field guide steve",
+            "description": "Colorado elk, sausage roasted green chilies, mushroom bachio, mozzarella provolone blend cheese",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "Local 6",
+            "description": "Chorizo, italian sausage roasted green chilies, jalapenos bachio, mozzarella provolone, blend",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "Birria Pizza",
+            "description": "Shredded beria beef, cilantro onions, mozzarella, red chili sauce and creme",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "Angry hawaiian",
+            "description": "Ham, bacon, pineapple, roasted green chili and jalapenos",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "Mimi's delight",
+            "description": "Pesto, base, artichoke cards, black olives, roasted red peppers, basil.With a balsamic glaze",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "Frank sinatra",
+            "description": "Pepperoni ricotta fresh basil hot honey",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "Bearcat pizza",
+            "description": "Beef bacon roasted green chilies mushrooms",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "Estis  Barbecue chicken pizza",
+            "description": "",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "Swanky Bruce ",
+            "description": "Alfredo base chicken bacon mushroom basil",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "Garden of the gods",
+            "description": "Mushrooms, onions, black olives, roasted red pepper basil",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "Diana ross supreme",
+            "description": "Pepperoni's ham sausage mushrooms onions black olives",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "T rex meat lovers",
+            "description": "Pepperoni ham sausage bacon chorizo",
+            "price": "",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Mains",
+        "description": "",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "tags": []
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Dessert",
+        "description": "",
+        "items": [
+          {
+            "name": "Tiramisu ",
+            "description": "",
+            "price": "",
+            "tags": []
+          }
+        ]
+      }
+    ]
   },
-  "hours": [
-    { "day": "Mon–Thu", "open": "11am – 9pm" },
-    { "day": "Fri–Sat", "open": "11am – 10pm" },
-    { "day": "Sunday", "open": "Closed" }
-  ],
-  "photos": {
-    "hero": { "src": "/images/hero.jpg", "alt": "Restaurant interior" },
-    "about": { "src": "/images/about.jpg", "alt": "Chef at work" },
-    "gallery": []
+  "brand": "Las Animas Pizza Company ",
+  "tagline": "Brick Oven Pizza",
+  "blurb": "Family Pizzeria serving pizza by the slice,  burra tacos, and local beef ",
+  "theme": "studio",
+  "swatch": "sage",
+  "variant": "essentials",
+  "contact": {
+    "address": "341 N Commercial st. Trinidad colorado 81082",
+    "phone": "7194228438",
+    "email": "Lasanimasgrill@gmail.com",
+    "mapEmbedUrl": "https://maps.app.goo.gl/pS6M8HbBoZke3Mpt7?g_st=ac"
   },
   "story": {
-    "title": "Our Story",
-    "paragraphs": ["A neighborhood restaurant with roots in the community."],
-    "facts": []
+    "title": "The Las Animas Story",
+    "paragraphs": [
+      "At Las Animas Pizza Company, we believe great pizza starts with great ingredients. That's why we use premium imported Italian flour, high-quality cheeses, and carefully selected toppings to create every pizza from scratch. More than just serving great food, we're proud to serve the Las Animas community with honest hospitality, exceptional quality, and a commitment to making every guest feel like family. Every pizza we make reflects our passion for craftsmanship and our dedication to the people we serve.\n\n",
+      "From Rocky Mountain elk sausage and locally raised Colorado beef to organic produce and premium Caputo \"00\" flour imported from Italy, we are committed to sourcing the finest ingredients available. Our dough is made with unbleached, unbromated Caputo \"00\" flour and undergoes a two-day cold fermentation, allowing it to develop exceptional flavor, texture, and character. We believe great pizza begins with great ingredients and time-honored techniques, and that commitment to quality is reflected in every slice we serve."
+    ],
+    "facts": [
+      {
+        "label": "",
+        "value": ""
+      },
+      {
+        "label": "",
+        "value": ""
+      },
+      {
+        "label": "",
+        "value": ""
+      }
+    ]
   },
-  "menu": {
-    "intro": "",
-    "categories": [],
-    "fullMenuUrl": ""
-  },
-  "testimonials": [],
-  "social": []
+  "testimonials": [
+    {
+      "quote": "First time trying this place the TREX pizza was incredible the buffalo wings were really good if your ever in Trinidad or passing through I recommend stopping here the service was great",
+      "author": "Edward Scaggs",
+      "source": "Google"
+    },
+    {
+      "quote": "Lunch\nOMG, what a gem. The old town feel, big screen showing history of the town. Known for their pizza we shared between 3 of us, two orders of the Birria soft tacos and Brussel sprouts, excellent 😋",
+      "author": "Kevin Wheeler",
+      "source": "Google "
+    },
+    {
+      "quote": "★★★★★\nWe stopped in after a long drive from Durango and were pleasantly surprised by this nice little pizza place in a historic spot. The salad and dressing was fresh and tasty. Pizzas were generously sized with a unique crispy crunch to the crust. We didn't get too adventurous with our selection; the sausage and pepperoni pizza did not disappoint.\nThe staff were efficient, friendly, and kept things moving even though it was a bustling Monday night. All the tables were full, and there was a steady stream of to-go orders. There are some non-pizza options as well!\nDefinitely on our list for another Colorado adventure! The kids got complimentary frozen fruit bars. A nice extra touch, especially when we cannot usually order dessert with food allergies!",
+      "author": "Christensen L.",
+      "source": "Yelp"
+    }
+  ],
+  "social": [
+    {
+      "label": "Instagram",
+      "href": ""
+    },
+    {
+      "label": "Facebook",
+      "href": "https://www.facebook.com/share/1BrbX7NWR7/"
+    }
+  ],
+  "hours": [
+    {
+      "day": "Monday",
+      "open": "11:00-9:00"
+    },
+    {
+      "day": "Tue – Thu",
+      "open": "11:00 – 9:00"
+    },
+    {
+      "day": "Fri – Sat",
+      "open": "11:00 – 10:00"
+    },
+    {
+      "day": "Sunday",
+      "open": "10:00 – 9:00"
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/hero.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    "about": {
+      "src": "/photos/about.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    "gallery": [
+      {
+        "src": "/photos/gallery-01.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-02.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-03.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-04.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-05.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-06.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-07.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-08.jpg",
+        "alt": "",
+        "caption": ""
+      }
+    ]
+  }
 }
